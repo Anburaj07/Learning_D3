@@ -1,5 +1,6 @@
 // import LinePlot from "./pages/LinePlot";
 // import LinePlotB from "./pages/LinePlotB";
+
 import MyChart from "./pages/MyChart";
 
 function App() {
